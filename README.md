@@ -33,15 +33,16 @@ This project was created to explore machine learning operations (MLOps) concepts
 
 ```text
 .
-├── data/
-│   └── phoneprice_preprocessing.csv
-├── src/
-│   └── train_model.py
+├── .github/
+│   └── workflows/
+│       └── ci.yml
 ├── mlruns/
-├── MLProject
+├── MLflowProject
 ├── conda.yaml
-├── requirements.txt
-└── README.md
+├── modelling.py
+├── phoneprice_preprocessing.csv
+├── README.md
+└── LICENSE
 ```
 
 ---
