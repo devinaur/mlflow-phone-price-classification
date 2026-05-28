@@ -4,7 +4,7 @@ ML model that predicts phone price ranges using a preprocessed dataset. Trained 
 
 ## Pipeline Position
 This is **Stage 2** of the phone price prediction pipeline.
-It consumes the cleaned data produced by [phone-price-preprocessing](https://github.com/YOUR_USERNAME/phone-price-preprocessing).
+It consumes the cleaned data produced by [phone-price-preprocessing](https://github.com/devinaur/phone-price-preprocessing).
 
 ## Files
 - `modelling.py` — model training script
